@@ -239,8 +239,8 @@
 			"type": "KMT_CLICK",
 			"key": "Key_Shift",
 			"pos": {
-				"x": 0.8,
-				"y": 0.8
+				"x": 0.823759,
+				"y": 0.266234
 			},
 			"switchMap": false
 		},
